@@ -9,7 +9,7 @@ chardet==3.0.4
 cryptography==2.6.1
 Django==2.1.7
 django-redis==4.10.0
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 idna==2.8
 kombu==4.4.0
 openpyxl==2.6.1
